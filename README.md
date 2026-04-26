@@ -39,7 +39,7 @@ We use the following software packages:
 - tqdm==4.67.3
 - requests==2.32.5
 
-# Instalation steps
+# Installation steps
 Clone repository :
 git clone https://github.com/mayageva1/PAD-implementation.git
 cd PAD-implementation
